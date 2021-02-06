@@ -1,3 +1,7 @@
+/*
+ Author: Eranda Upeshitha
+ Modified date: 2021/02/06
+*/
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
